@@ -28,5 +28,5 @@ class Test_nop_Login:
         self.lp.verify_login(self.expected_title)
         self.logger.info('click logout button')
         self.lp.click_logout()
-        self.driver.save_screenshot('.\\screenshots\\test_nop_loin.png')
+        self.driver.save_screenshot(r'C:\Users\Dell\PycharmProjects\mercurynew\screenshotsC:\Users\Dell\PycharmProjects\mercurynew\screenshots\\test_nop_loin.png')
         self.logger.info('program is passed')

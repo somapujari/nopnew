@@ -1,7 +1,7 @@
 import configparser
 
 config = configparser.RawConfigParser()
-config.read('.\\configration\\config.ini')
+config.read(r'C:\Users\Dell\PycharmProjects\mercurynew\configration\\config.ini')
 
 
 class ReadConfig:

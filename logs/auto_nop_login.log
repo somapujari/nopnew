@@ -1,1 +1,9 @@
 
+ ************** test_ login nop started: 2024-06-03 16:56:15,843  : INFO : test_login : 20
+ ***** opening url***: 2024-06-03 16:56:15,843  : INFO : test_login : 20
+ -------------- sending username: 2024-06-03 16:56:16,380  : INFO : test_login : 20
+ ----- entering password: 2024-06-03 16:56:17,114  : INFO : test_login : 20
+ ____ click on login: 2024-06-03 16:56:17,250  : INFO : test_login : 20
+ verifying the title : 2024-06-03 16:56:22,022  : INFO : test_login : 20
+ click logout button: 2024-06-03 16:56:24,846  : INFO : test_login : 20
+ program is passed: 2024-06-03 16:56:26,644  : INFO : test_login : 20
